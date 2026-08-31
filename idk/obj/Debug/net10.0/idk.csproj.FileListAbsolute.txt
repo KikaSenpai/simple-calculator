@@ -1,0 +1,14 @@
+C:\Users\kikac\source\repos\idk\bin\Debug\net10.0\idk.exe
+C:\Users\kikac\source\repos\idk\bin\Debug\net10.0\idk.deps.json
+C:\Users\kikac\source\repos\idk\bin\Debug\net10.0\idk.runtimeconfig.json
+C:\Users\kikac\source\repos\idk\bin\Debug\net10.0\idk.dll
+C:\Users\kikac\source\repos\idk\bin\Debug\net10.0\idk.pdb
+C:\Users\kikac\source\repos\idk\obj\Debug\net10.0\idk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kikac\source\repos\idk\obj\Debug\net10.0\idk.AssemblyInfoInputs.cache
+C:\Users\kikac\source\repos\idk\obj\Debug\net10.0\idk.AssemblyInfo.cs
+C:\Users\kikac\source\repos\idk\obj\Debug\net10.0\idk.csproj.CoreCompileInputs.cache
+C:\Users\kikac\source\repos\idk\obj\Debug\net10.0\idk.dll
+C:\Users\kikac\source\repos\idk\obj\Debug\net10.0\refint\idk.dll
+C:\Users\kikac\source\repos\idk\obj\Debug\net10.0\idk.pdb
+C:\Users\kikac\source\repos\idk\obj\Debug\net10.0\idk.genruntimeconfig.cache
+C:\Users\kikac\source\repos\idk\obj\Debug\net10.0\ref\idk.dll
